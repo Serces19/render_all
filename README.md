@@ -1,1 +1,1 @@
-# render_all
+# Render_scripts
