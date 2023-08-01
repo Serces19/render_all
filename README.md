@@ -31,7 +31,11 @@ Follow these steps to use it:
 
 5. Click 'Render!' to execute the command and render all files in the queue. You can stop the render at any time, which will terminate the process.
 
+
+
 ### Notes on Possible Errors:
+This program use nuke_i licence to work.
+
 There might be conflicts with Linux (Not tested). Unfortunately, I cannot provide a macOS version at the moment, but I'll try to develop one soon.
 
 I hope this tool is helpful. Any error reports are appreciated.
